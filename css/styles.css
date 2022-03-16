@@ -1,0 +1,136 @@
+/* Bridge Funnel */
+.container {
+  background: grey;
+}
+
+.logo {
+  width: 30px;
+}
+.list {
+  background: black;
+}
+
+.menu li {
+  padding: 0px 40px 0 40px;
+}
+
+.menu .nav-item .nav-link {
+  color: #fff;
+  font-size: 16px;
+  text-decoration: none;
+}
+.menu .nav-item .nav-link:hover {
+  color: #fff;
+  font-size: 16px;
+  text-decoration: underline;
+  color: aqua;
+}
+.arrow {
+  margin-bottom: 100px;
+}
+.get-in-touch {
+  color: #fff;
+}
+.modal-content {
+  background: grey;
+}
+.form-group {
+  border: 2px solid skyblue;
+}
+/* .form-control {
+  background: grey;
+} */
+.container-getintouch {
+  background: grey;
+}
+.logoone {
+  width: 50px;
+}
+
+.line {
+  border-top: 1px solid skyblue;
+}
+.para {
+  width: 300px;
+}
+.heading {
+  width: 50%;
+}
+
+.deals {
+  margin-bottom: 200px;
+}
+.btn-sm {
+  margin-bottom: 200px;
+}
+
+.container-next {
+  margin-bottom: 100px;
+}
+.container-demo {
+  background: whitesmoke;
+}
+
+.footer {
+  background: black;
+  text-align: center;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.svg {
+  width: 50px;
+  height: 50px;
+}
+.footer-links,
+.footer-icons {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+.footer-link {
+  color: white;
+  text-transform: capitalize;
+  font-size: 1rem;
+  margin-right: 1rem;
+  letter-spacing: normal;
+}
+.footer-icon {
+  font-size: 1rem;
+  margin-right: 1rem;
+  color: white;
+}
+/* what */
+.container-accordian {
+  background: grey;
+}
+/* ourstory */
+.container-box .img-fluid {
+  background: black;
+  width: 400px;
+  height: 150px;
+}
+.contify {
+  background: black;
+  width: 400px;
+  height: 150px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.contify:hover {
+  background: white;
+  color: black;
+}
+.container-box .img-fluid:hover {
+  background: white;
+}
+/* roles */
+.container-roles .nav-item .nav-link {
+  color: black;
+}
+
+.container-roles .nav-item .nav-link:hover {
+  color: aqua;
+}
